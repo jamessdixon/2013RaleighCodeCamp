@@ -1,0 +1,7 @@
+C:\TFS\Tff.CodeCamp2013\Tff.WinForms\bin\Debug\Tff.WinForms.XML
+C:\TFS\Tff.CodeCamp2013\Tff.WinForms\bin\Debug\Tff.WinForms.dll
+C:\TFS\Tff.CodeCamp2013\Tff.WinForms\bin\Debug\Tff.WinForms.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.WinForms\bin\Debug\FSharp.Core.dll
+C:\TFS\Tff.CodeCamp2013\Tff.WinForms\bin\Debug\FSharp.Core.xml
+C:\TFS\Tff.CodeCamp2013\Tff.WinForms\obj\Debug\Tff.WinForms.dll
+C:\TFS\Tff.CodeCamp2013\Tff.WinForms\obj\Debug\Tff.WinForms.pdb

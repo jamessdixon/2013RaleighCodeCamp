@@ -1,0 +1,9 @@
+C:\TFS\Tff.CodeCamp2013\Tff.NorthwindProvider\bin\Debug\Tff.NorthwindProvider.exe.config
+C:\TFS\Tff.CodeCamp2013\Tff.NorthwindProvider\bin\Debug\Tff.NorthwindProvider.XML
+C:\TFS\Tff.CodeCamp2013\Tff.NorthwindProvider\bin\Debug\Tff.NorthwindProvider.exe
+C:\TFS\Tff.CodeCamp2013\Tff.NorthwindProvider\bin\Debug\Tff.NorthwindProvider.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.NorthwindProvider\bin\Debug\FSharp.Core.dll
+C:\TFS\Tff.CodeCamp2013\Tff.NorthwindProvider\bin\Debug\FSharp.Core.xml
+C:\TFS\Tff.CodeCamp2013\Tff.NorthwindProvider\obj\Debug\Tff.NorthwindProvider.exe
+C:\TFS\Tff.CodeCamp2013\Tff.NorthwindProvider\obj\Debug\Tff.NorthwindProvider.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.NorthwindProvider\obj\Debug\Tff.NorthwindProvider.fsprojResolveAssemblyReference.cache

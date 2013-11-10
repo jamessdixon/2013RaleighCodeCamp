@@ -1,0 +1,8 @@
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.Tests.dll
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.Tests.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.dll
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.xml
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\obj\Debug\Tff.ClaimAdjudicator.Tests.csprojResolveAssemblyReference.cache
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\obj\Debug\Tff.ClaimAdjudicator.Tests.dll
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\obj\Debug\Tff.ClaimAdjudicator.Tests.pdb

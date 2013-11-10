@@ -1,0 +1,5 @@
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.CS\bin\Debug\Tff.BugFreeCode.CS.exe
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.CS\bin\Debug\Tff.BugFreeCode.CS.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.CS\obj\Debug\Tff.BugFreeCode.CS.csprojResolveAssemblyReference.cache
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.CS\obj\Debug\Tff.BugFreeCode.CS.exe
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.CS\obj\Debug\Tff.BugFreeCode.CS.pdb

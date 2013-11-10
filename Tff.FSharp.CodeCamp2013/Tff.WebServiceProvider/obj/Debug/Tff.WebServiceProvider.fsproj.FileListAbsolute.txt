@@ -1,0 +1,9 @@
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.exe.config
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.XML
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.exe
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\bin\Debug\FSharp.Core.dll
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\bin\Debug\FSharp.Core.xml
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\obj\Debug\Tff.WebServiceProvider.fsprojResolveAssemblyReference.cache
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\obj\Debug\Tff.WebServiceProvider.exe
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\obj\Debug\Tff.WebServiceProvider.pdb

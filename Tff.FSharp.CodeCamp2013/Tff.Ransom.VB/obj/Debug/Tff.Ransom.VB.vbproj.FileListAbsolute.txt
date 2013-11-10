@@ -1,0 +1,8 @@
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.VB\bin\Debug\Tff.Ransom.VB.dll
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.VB\bin\Debug\Tff.Ransom.VB.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.VB\bin\Debug\Tff.Ransom.VB.xml
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.VB\obj\Debug\Tff.Ransom.VB.Resources.resources
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.VB\obj\Debug\Tff.Ransom.VB.vbproj.GenerateResource.Cache
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.VB\obj\Debug\Tff.Ransom.VB.dll
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.VB\obj\Debug\Tff.Ransom.VB.xml
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.VB\obj\Debug\Tff.Ransom.VB.pdb

@@ -1,0 +1,8 @@
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator\bin\Debug\Tff.ClaimAdjudicator.XML
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator\bin\Debug\Tff.ClaimAdjudicator.dll
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator\bin\Debug\Tff.ClaimAdjudicator.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator\bin\Debug\FSharp.Core.dll
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator\bin\Debug\FSharp.Core.xml
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator\obj\Debug\Tff.ClaimAdjudicator.dll
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator\obj\Debug\Tff.ClaimAdjudicator.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator\obj\Debug\Tff.ClaimAdjudicator.fsprojResolveAssemblyReference.cache

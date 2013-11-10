@@ -1,0 +1,4 @@
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.CS\bin\Debug\Tff.Ransom.CS.dll
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.CS\bin\Debug\Tff.Ransom.CS.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.CS\obj\Debug\Tff.Ransom.CS.dll
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.CS\obj\Debug\Tff.Ransom.CS.pdb

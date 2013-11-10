@@ -1,0 +1,11 @@
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.FS\bin\Debug\Tff.BugFreeCode.FS.exe.config
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.FS\bin\Debug\Tff.BugFreeCode.FS.XML
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.FS\bin\Debug\Tff.BugFreeCode.FS.exe
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.FS\bin\Debug\Tff.BugFreeCode.FS.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.FS\bin\Debug\FSharp.Core.dll
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.FS\bin\Debug\Tff.BugFreeCode.CS.exe
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.FS\bin\Debug\FSharp.Core.xml
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.FS\bin\Debug\Tff.BugFreeCode.CS.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.FS\obj\Debug\Tff.BugFreeCode.FS.fsprojResolveAssemblyReference.cache
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.FS\obj\Debug\Tff.BugFreeCode.FS.exe
+C:\TFS\Tff.CodeCamp2013\Tff.BugFreeCode.FS\obj\Debug\Tff.BugFreeCode.FS.pdb

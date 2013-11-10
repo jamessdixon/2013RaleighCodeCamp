@@ -1,0 +1,8 @@
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.XML
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.dll
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\bin\Debug\FSharp.Core.dll
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\bin\Debug\FSharp.Core.xml
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\obj\Debug\Tff.Ransom.FS.dll
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\obj\Debug\Tff.Ransom.FS.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\obj\Debug\Tff.Ransom.FS.fsprojResolveAssemblyReference.cache

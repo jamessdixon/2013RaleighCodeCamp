@@ -1,0 +1,8 @@
+C:\TFS\Tff.CodeCamp2013\Tff.RExample\bin\Debug\Tff.RExample.XML
+C:\TFS\Tff.CodeCamp2013\Tff.RExample\bin\Debug\Tff.RExample.dll
+C:\TFS\Tff.CodeCamp2013\Tff.RExample\bin\Debug\Tff.RExample.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.RExample\bin\Debug\FSharp.Core.dll
+C:\TFS\Tff.CodeCamp2013\Tff.RExample\bin\Debug\FSharp.Core.xml
+C:\TFS\Tff.CodeCamp2013\Tff.RExample\obj\Debug\Tff.RExample.fsprojResolveAssemblyReference.cache
+C:\TFS\Tff.CodeCamp2013\Tff.RExample\obj\Debug\Tff.RExample.dll
+C:\TFS\Tff.CodeCamp2013\Tff.RExample\obj\Debug\Tff.RExample.pdb
